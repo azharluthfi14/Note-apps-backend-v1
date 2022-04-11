@@ -1,6 +1,6 @@
 # dependencies
 /node_modules
-/migrations
+
 # misc
 .env
 .prod.env
